@@ -132,8 +132,8 @@ A web scraping platform developed for college faculties to conveniently gather a
 
 ## 📫 Connect With Me
 
-* LinkedIn - https://www.linkedin.com/in/aswin-n-62502b287 *
-* GitHub - https://github.com/Aswin-hitech *
-* Portfolio Website - https://portfolio-aswin-n-kitin.vercel.app/ *
-* Email - kit28.24bam009@gmail.com *
+* LinkedIn - https://www.linkedin.com/in/aswin-n-62502b287
+* GitHub - https://github.com/Aswin-hitech
+* Portfolio Website - https://portfolio-aswin-n-kitin.vercel.app/
+* Email - kit28.24bam009@gmail.com
 
